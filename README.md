@@ -1,9 +1,9 @@
-### Hi there 👋, I'm in 2nd Year pursuing an IT Degree in India.
+### Hi there 👋, I'm am an IT student in India.
 #### I love to design websites and learn new things.
 
 #### 🔭 I’ve developed a few websites!
 #### 🌱 I’m currently pursuing B-Tech in Information Technology.
-#### ✨ Working on Django & Bootstrap framework.
+#### ✨ Working on Bootstrap & React framework.
 
 
 #### You can get in touch with me here
@@ -23,7 +23,5 @@
 
 <br />
 <br />
-
-![image title](https://rushter.com/counter.svg)
 
 [![](https://github-readme-stats.vercel.app/api?username=Om-Jaiswal&hide=stars,issues&count_private=true&show_icons=true&theme=radical)](https://www.instagram.com/om_jaiswal7/)
