@@ -30,9 +30,9 @@ Outside Tech, I love to read, enjoy music and hung out with friends.
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-    <a href="https://om-jaiswal.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.om-jaiswal.github.io-blue?style=flat&logo=google-chrome"></a>
-    <a href="https://www.linkedin.com/in/om-jaiswal/-a599b61b3" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@om-jaiswal-blue?style=flat&logo=linkedin"></a>
-    <a href="mailto:om_jaiswal@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-om_jaiswal@outlook.com-blue?style=flat&logo=gmail"></a>
+<a href="https://om-jaiswal.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-om&hyphen;jaiswal.github.io-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/om-jaiswal-a599b61b3" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@om&hyphen;jaiswal-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:om_jaiswal@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-om_jaiswal@outlook.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 
