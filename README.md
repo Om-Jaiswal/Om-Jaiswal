@@ -24,8 +24,8 @@ Outside Tech, I love to read, enjoy music and hung out with friends.
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Om-Jaiswal&repo=Diversify&show_owner=true)](https://github.com/Om-Jaiswal/Jammming)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Om-Jaiswal&repo=Flytasy&show_owner=true)](https://github.com/Om-Jaiswal/FlashChat)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Om-Jaiswal&repo=Jammming&show_owner=true)](https://github.com/Om-Jaiswal/Jammming)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Om-Jaiswal&repo=FlashChat&show_owner=true)](https://github.com/Om-Jaiswal/FlashChat)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
